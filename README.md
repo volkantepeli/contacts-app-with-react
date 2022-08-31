@@ -1,7 +1,7 @@
 # Contacts App (React)
 React.js; I developed with. Gain experience in; Props, States, Life Cycle, Style, Clean code. A copy of telephone directories. Registration takes place by entering a name and number data. The filter has been designed for easy finding of registered people.
 
-# Preview
+## Preview
 <img src = "./app.gif">
 
 ## Requirements
